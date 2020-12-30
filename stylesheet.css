@@ -1,0 +1,15 @@
+#weather-widget-container {
+  width: 250px;
+  height: 200px;
+  border: 1px solid #cccccccc;
+  text-align: center;
+  border-radius: 3px;
+  padding: 5px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  box-shadow: 3px 5px 9px #888888;
+}
+
+#weather-widget-container i {
+  color: #ffa500;
+}
